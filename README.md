@@ -19,3 +19,8 @@ RSA in pure Python.
     got = tiny_rsa.decrypt(result_encrypt, d, n)
     assert plain == got
 
+
+
+See also 
+
+- https://github.com/sybrenstuvel/python-rsa
